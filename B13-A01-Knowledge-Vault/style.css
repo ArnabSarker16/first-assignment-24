@@ -146,6 +146,10 @@ nav {
     color: #FFFFFF;
     border-color: #FFFFFF;
     background-color: transparent;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
 
 }
 #middle-banner {
