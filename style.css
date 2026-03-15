@@ -21,6 +21,8 @@ nav {
     display: flex;
     justify-content: space-between;
 }
+
+.himu{}
 .menu-1 {
     
     list-style: none;
