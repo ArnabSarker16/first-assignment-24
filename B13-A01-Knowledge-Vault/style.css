@@ -79,10 +79,11 @@ nav {
     color:#30B868;
     font-size: 16px;
     font-weight: 500px;
-    border-radius: 10px;
+    border-radius: 20px;
     max-width: 229px;
     border-left: 685px;
     padding: 8px 12px 8px 34px;
+    
    
 }
 #banner .banner-content h1{
